@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "First page"
-permalink: /URL-PATH
+permalink: /first
 ---
 
 # First page
